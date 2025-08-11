@@ -1,8 +1,8 @@
 <!-- TEAM AURORA README -->
 
 <div align="center">
-  <img src="<img width="1509" height="1477" alt="image" src="https://github.com/user-attachments/assets/ed16b20a-909d-4463-99b3-c5da7f8d7b89" />
-" width="200"/>
+  <img width="300" height="1477" alt="image" src="https://github.com/user-attachments/assets/06699d5a-1ce8-4746-8e51-41dc852bac31" />
+
   
   # 🚀 TEAM AURORA
   **Innovating at the speed of light** 🌌
